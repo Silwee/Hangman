@@ -1,7 +1,7 @@
 # Hangman
 First repository to test version control
 
-##Version different
+## Version different
 v0.1: 
 	Basic function
 	No word list (only have the word "random" to test)

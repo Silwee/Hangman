@@ -18,3 +18,10 @@ Just enter a English letter when you're asked until you guessed the word or lose
 - Add console graphic
 - Add function checking right input format
 - Can input both lowercase and uppercase letter
+
+### v1.1:
+- Refactoring and optimizing
+- Add more word
+- Check if input char was guessed before
+- A simple clear screen
+- Now the game is repalyable

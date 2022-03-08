@@ -24,4 +24,4 @@ Just enter a English letter when you're asked until you guessed the word or lose
 - Add more word
 - Check if input char was guessed before
 - A simple clear screen
-- Now the game is repalyable
+- Now the game is replayable
